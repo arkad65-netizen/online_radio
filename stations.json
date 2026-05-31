@@ -2,31 +2,31 @@
   {
     "name": "Радио Шансон",
     "streamUrl": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
-    "imageUrl": "assets/images/chanson.png"
+    "imageUrl": "https://raw.githubusercontent.com/arkad65-netizen/online_radio/main/chanson.png"
   },
   {
     "name": "Европа Плюс",
     "streamUrl": "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
-    "imageUrl": "assets/images/europa.png"
+    "imageUrl": "https://raw.githubusercontent.com/arkad65-netizen/online_radio/main/europa.png"
   },
   {
     "name": "Русское Радио",
     "streamUrl": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-    "imageUrl": "assets/images/russkoe.png"
+    "imageUrl": "https://raw.githubusercontent.com/arkad65-netizen/online_radio/main/russkoe.png"
   },
   {
     "name": "DFM",
     "streamUrl": "https://dfm.hostingradio.ru/dfm96.aacp",
-    "imageUrl": "assets/images/dfm.png"
+    "imageUrl": "https://raw.githubusercontent.com/arkad65-netizen/online_radio/main/dfm.png"
   },
   {
     "name": "Наше Радио",
     "streamUrl": "https://nashe1.hostingradio.ru/nashe-256",
-    "imageUrl": "assets/images/nashe.png"
+    "imageUrl": "https://raw.githubusercontent.com/arkad65-netizen/online_radio/main/nashe.png"
   },
   {
     "name": "Relax FM",
     "streamUrl": "https://streams.rsh.de/relax/mp3-128/streams.rsh.de/",
-    "imageUrl": "assets/images/relax.png"
+    "imageUrl": "https://raw.githubusercontent.com/arkad65-netizen/online_radio/main/relax.png"
   }
 ]
