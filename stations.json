@@ -25,6 +25,11 @@
     "imageUrl": "https://raw.githubusercontent.com/arkad65-netizen/online_radio/main/nashe.png"
   },
   {
+    "name": "Авторадио",
+  "streamUrl": "https://pub0302.101.ru:8443/stream/trust/mp3/128/99",
+  "imageUrl": "https://raw.githubusercontent.com/arkad65-netizen/online_radio/main/avtoradio.png"
+},
+  {
     "name": "Relax FM",
     "streamUrl": "https://streams.rsh.de/relax/mp3-128/streams.rsh.de/",
     "imageUrl": "https://raw.githubusercontent.com/arkad65-netizen/online_radio/main/relax.png"
